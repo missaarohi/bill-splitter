@@ -38,4 +38,4 @@ bill-splitter/
 
 ## Live Demo
 
-https://missaarohi.github.io/bill-splitter/
+Open the live site here: [Bill Splitter](https://missaarohi.github.io/bill-splitter/)
